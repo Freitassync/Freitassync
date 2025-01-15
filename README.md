@@ -1,7 +1,7 @@
 # Bem-vindo ao meu perfil no GitHub!
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,firebase,github,netlify" alt="Minhas Tecnologias" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,github,react,nodejs,firebase,netlify" alt="Minhas Tecnologias" />
 </p>
 
 ## Sobre mim
