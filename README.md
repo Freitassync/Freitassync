@@ -5,7 +5,8 @@
 </p>
 
 ## Sobre mim
-- Estudante de **Sistemas de Informação**  
+- Estudante de **Sistemas de Informação**
+- Analista de BI na **JBS** 
 - Explorando **IA**, **SaaS** e **inovações tecnológicas**  
 - Apaixonado por **análise de dados** e **soluções práticas**  
 
