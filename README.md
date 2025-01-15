@@ -19,7 +19,7 @@
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
   <a href="mailto:gabrielfreitas3010@outlook.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=outlook" alt="Email" />
+    <img src="https://skillicons.dev/icons?i=email" alt="Email" />
   </a>
 </p>
 
