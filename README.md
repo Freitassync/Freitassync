@@ -47,6 +47,7 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=freitassync&layout=compact&langs_count=8&theme=holi"/>
   </a>
 </div>
+
 ---
 
 ## 🎯 Projetos em Destaque
